@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Artaishere
 - 👀 I’m interested in web development and solving mathematic problems
-- 🌱 I’m currently learning Python, JavaScript, HTML, CSS, SQL, Java
+- 🌱 I’m currently learning Python, JavaScript, HTML, CSS, SQL, Java, C++
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me: The W?#5221
 
